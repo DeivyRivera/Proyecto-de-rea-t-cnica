@@ -34,7 +34,7 @@
 <body>
     <h1>TRITICO</h1>
     <h2>TRITICO Y CONTENIDO</h2>
-    <img src="images/1.png" alt="Tríptico imagen 1">
+    <img src=https://github.com/DeivyRivera/Proyecto-de-rea-t-cnica/blob/main/1.png alt="Tríptico imagen 1">
     <img src=https://github.com/DeivyRivera/Proyecto-de-rea-t-cnica/blob/main/2.png alt="Tríptico imagen 2">
     <ul>
         <li><a href="gif.html">TRIMESTRE 1</a></li>
